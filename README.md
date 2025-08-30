@@ -1,4 +1,5 @@
 🛳️ Titanic Survival Analysis
+
 Welcome to this exploratory data analysis (EDA) project on the Titanic dataset. 
 This notebook dives into passenger demographics, survival rates, and key patterns using Python and pandas.
 
