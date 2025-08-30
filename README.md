@@ -1,13 +1,19 @@
 🛳️ Titanic Survival Analysis
 
 Welcome to this exploratory data analysis (EDA) project on the Titanic dataset. 
+
 This notebook dives into passenger demographics, survival rates, and key patterns using Python and pandas.
 
 📊 Project Overview
+
 This analysis answers questions like:
+
 How many passengers were onboard?
+
 What was the average age and fare?
+
 Which port had the most embarkations?
+
 How did survival rates vary by class, gender, and age?
 
 🧰 Tools & Libraries
